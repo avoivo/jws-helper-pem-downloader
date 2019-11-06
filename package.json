@@ -1,0 +1,15 @@
+{
+  "name": "jws-helper-pem-downloader",
+  "version": "1.0.0",
+  "description": "Download jwks to pem files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-jwk": "^0.1.0",
+    "request": "^2.88.0"
+  }
+}
