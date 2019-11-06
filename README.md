@@ -17,7 +17,6 @@ node index.js
 ```
 
 ## After geting the private key
-Create public PEM from private PEM.
 
 
 Create public key certificate from private PEM.
