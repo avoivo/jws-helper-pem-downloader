@@ -1,6 +1,6 @@
 const njwk = require('node-jwk');
 
-const JWKS_URI = "https://jws-helper.cy.scaleforce.com.cy/jwks";
+const JWKS_URI = "http://192.168.0.9:3000/jwks";
 
 // var jwk = { kty: 'EC', crv: 'P-256', x: '...', y: '...' },
 //     pem = jwkToPem(jwk);
